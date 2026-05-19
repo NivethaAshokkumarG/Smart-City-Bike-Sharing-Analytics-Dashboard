@@ -56,7 +56,7 @@ This project aims to:
   ## Dashboard Screenshots
   ### Executive Overview
 
-![Executive Overview](dashboard_screenshots/executive_overview.png)
+![Executive Overview](DashSmartBike.png)
 
 ## Project Outcome
 
