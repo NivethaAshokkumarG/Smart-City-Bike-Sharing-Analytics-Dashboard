@@ -48,7 +48,9 @@ Performed the following preprocessing steps:
 - Created calculated columns and measures using DAX
 - Optimized relationships for performance
 
-![Executive Overview]()
+![Executive Overview](DataModeling.png)
+![Executive Overview](PowerQuery.png)
+
 ## Key Insights
 
 - New York generated the highest revenue contributing 28% of total revenue.
