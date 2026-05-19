@@ -37,6 +37,18 @@ This project aims to:
 - SQL
 - Excel
 
+## Data Cleaning & Transformation
+
+Performed the following preprocessing steps:
+
+- Removed null and duplicate records
+- Standardized city and station names
+- Created Date Dimension table
+- Built star schema data model
+- Created calculated columns and measures using DAX
+- Optimized relationships for performance
+
+![Executive Overview]()
 ## Key Insights
 
 - New York generated the highest revenue contributing 28% of total revenue.
