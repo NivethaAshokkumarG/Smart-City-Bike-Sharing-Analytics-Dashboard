@@ -21,7 +21,7 @@ This project aims to:
 - Monitor yearly revenue trends
 - Improve cost and ride efficiency
 
-  ## Dataset Information
+ ## Dataset Information
 
 - Total Records: 150,000+
 - Cities Covered: 12
@@ -29,7 +29,7 @@ This project aims to:
 - Analysis Period: 2021 – 2025
 - Data Size: ~25 MB
 
-  ## Tools & Technologies
+ ## Tools & Technologies
 
 - Power BI
 - Power Query
@@ -60,7 +60,7 @@ Performed the following preprocessing steps:
 - Top 15 stations contributed nearly 40% of total rides.
 - Weekend rides were significantly higher compared to weekdays.
 
-- ## Business Recommendations
+  ## Business Recommendations
 
 - Increase bike allocation in high-demand stations.
 - Optimize low-performing routes to reduce operational costs.
