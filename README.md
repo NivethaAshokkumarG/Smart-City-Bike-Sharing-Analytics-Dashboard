@@ -47,9 +47,10 @@ Performed the following preprocessing steps:
 - Built star schema data model
 - Created calculated columns and measures using DAX
 - Optimized relationships for performance
-
-![Executive Overview](DataModeling.png)
+  
 ![Executive Overview](PowerQuery.png)
+![Executive Overview](DataModeling.png)
+
 
 ## Key Insights
 
